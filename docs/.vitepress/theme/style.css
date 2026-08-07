@@ -1,0 +1,16 @@
+:root {
+    --vp-c-brand-1: #8b5cf6;
+    --vp-c-brand-2: #7c3aed;
+    --vp-c-brand-3: #6d28d9;
+
+    --vp-c-brand-soft: rgba(139, 92, 246, 0.14);
+}
+
+/* Убрать подчёркивание ссылок в статьях */
+.vp-doc a {
+    text-decoration: none;
+}
+
+.vp-doc a:hover {
+    text-decoration: none;
+}
