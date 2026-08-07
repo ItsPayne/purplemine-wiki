@@ -14,3 +14,15 @@
 .vp-doc a:hover {
     text-decoration: none;
 }
+
+.vp-doc figure {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.vp-doc figcaption {
+    margin-top: 8px;
+    color: var(--vp-c-text-2);
+    font-size: 14px;
+}
