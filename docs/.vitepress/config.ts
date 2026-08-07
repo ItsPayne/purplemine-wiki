@@ -6,6 +6,8 @@ export default defineConfig({
     title: 'PurpleMine Wiki',
     description: 'Общая база знаний Майнкрафт сервера PurpleMine.',
 
+    base: '/purplemine-wiki/',
+
     themeConfig: {
         nav: [
             { text: 'Главная', link: '/' },
